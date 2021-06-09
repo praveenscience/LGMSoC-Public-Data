@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "Aman Kesarwani",
+    "Role": "Founder",
+    "DPic": "https://i.imgur.com/vM5Jj4Y.png",
+    "Socials": {
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": null,
+      "Website": null,
+      "StackOverflow": null
+    }
+  }, {
+    "Name": "Praveen Kumar Purushothaman",
+    "Role": "Programme Manager",
+    "DPic": "https://i.imgur.com/oHmRxfz.png",
+    "Socials": {
+      "Facebook": "https://www.facebook.com/praveenscience",
+      "Twitter": "https://twitter.com/praveenscience",
+      "LinkedIn": "https://www.linkedin.com/in/praveentech/",
+      "Website": "http://praveen.science/",
+      "StackOverflow": "https://stackoverflow.com/users/462627/"
+    }
+  }
+]
