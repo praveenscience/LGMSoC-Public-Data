@@ -1,0 +1,52 @@
+[
+  {
+    "ProjectName": "DevTernShip",
+    "Repository": "praveenscience/Internship-LMS-FrontEnd",
+    "Description": "We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects. This platform aims to onboard new interns, who have applied to the companies and help them understand the process and make the transition smooth.",
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Praveen Kumar Purushothaman",
+      "GitHub": "https://github.com/praveenscience/"
+    },
+    "Mentors": [
+      {
+        "Name": "Praveen Kumar Purushothaman",
+        "GitHub": "https://github.com/praveenscience/"
+      },
+      {
+        "Name": "Praveen Kumar Purushothaman",
+        "GitHub": "https://github.com/praveenscience/"
+      },
+      {
+        "Name": "Praveen Kumar Purushothaman",
+        "GitHub": "https://github.com/praveenscience/"
+      }
+    ]
+  },
+  {
+    "ProjectName": "EasyA Website",
+    "Repository": "praveenscience/easya-website",
+    "Description": "This is the source code for EasyA Website built for Enterprise entirely using React JS.",
+    "Website": "https://easya.jigg.win/",
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Praveen Kumar Purushothaman",
+      "GitHub": "https://github.com/praveenscience/"
+    },
+    "Mentors": [
+      {
+        "Name": "Praveen Kumar Purushothaman",
+        "GitHub": "https://github.com/praveenscience/"
+      },
+      {
+        "Name": "Praveen Kumar Purushothaman",
+        "GitHub": "https://github.com/praveenscience/"
+      },
+      {
+        "Name": "Praveen Kumar Purushothaman",
+        "GitHub": "https://github.com/praveenscience/"
+      }
+    ]
+  }
+]
