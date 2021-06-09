@@ -11,7 +11,21 @@
       "Website": null,
       "StackOverflow": null
     }
-  }, {
+  }, 
+  {
+    "Name": "Tejas Sudhir Tapas",
+    "Role": "Lead Program Manager",
+    "DPic": null,
+    "Socials": {
+      "GitHub": "https://github.com/Tejas1510",
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/",
+      "Website": "https://tejastapas.netlify.app/",
+      "StackOverflow": null
+    }
+  },
+  {
     "Name": "Praveen Kumar Purushothaman",
     "Role": "Programme Manager",
     "DPic": "https://i.imgur.com/oHmRxfz.png",
