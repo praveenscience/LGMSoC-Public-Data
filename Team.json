@@ -42,6 +42,19 @@
     }
   },
   {
+    "Name": "Vilsi Jain",
+    "Role": "Lead Organizer",
+    "DPic": null,
+    "Socials": {
+      "GitHub": "https://github.com/vilsi12/",
+      "Facebook": "https://www.facebook.com/vilsi.jain/",
+      "Twitter": "https://twitter.com/VilsiJ",
+      "LinkedIn": "https://www.linkedin.com/in/vilsijain08/",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
     "Name": "Vinamra Sharma",
     "Role": "Tech Lead",
     "DPic": null,
@@ -63,19 +76,6 @@
       "Facebook": "https://www.facebook.com/sushant4191/",
       "Twitter": null,
       "LinkedIn": "https://www.linkedin.com/in/sushant4191/",
-      "Website": null,
-      "StackOverflow": null
-    }
-  },
-  {
-    "Name": "Vilsi Jain",
-    "Role": "Lead Organizer",
-    "DPic": null,
-    "Socials": {
-      "GitHub": "https://github.com/vilsi12/",
-      "Facebook": null,
-      "Twitter": "https://twitter.com/VilsiJ",
-      "LinkedIn": "https://www.linkedin.com/in/vilsijain08/",
       "Website": null,
       "StackOverflow": null
     }
