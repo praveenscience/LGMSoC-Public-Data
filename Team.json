@@ -4,19 +4,30 @@
     "Role": "Founder",
     "DPic": "https://i.imgur.com/vM5Jj4Y.png",
     "Socials": {
-      "GitHub": null,
       "Facebook": null,
       "Twitter": null,
       "LinkedIn": null,
       "Website": null,
       "StackOverflow": null
     }
-  }, {
+  }, 
+  {
+    "Name": "Tejas Sudhir Tapas",
+    "Role": "Lead Program Manager",
+    "DPic": null,
+    "Socials": {
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/",
+      "Website": "https://tejastapas.netlify.app/",
+      "StackOverflow": null
+    }
+  },
+  {
     "Name": "Praveen Kumar Purushothaman",
     "Role": "Programme Manager",
     "DPic": "https://i.imgur.com/oHmRxfz.png",
     "Socials": {
-      "GitHub": "https://github.com/praveenscience/",
       "Facebook": "https://www.facebook.com/praveenscience",
       "Twitter": "https://twitter.com/praveenscience",
       "LinkedIn": "https://www.linkedin.com/in/praveentech/",
