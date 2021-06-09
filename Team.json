@@ -14,20 +14,6 @@
     }
   },
   {
-    "Name": "Tejas Sudhir Tapas",
-    "Role": "Lead Program Manager",
-    "DPic": "https://i.imgur.com/yCTPMVt.png",
-    "Socials": {
-      "GitHub": "https://github.com/Tejas1510",
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": "https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/",
-      "Website": "https://tejastapas.netlify.app/",
-      "Instagram": null,
-      "StackOverflow": null
-    }
-  },
-  {
     "Name": "Praveen Kumar Purushothaman",
     "Role": "Programme Manager",
     "DPic": "https://i.imgur.com/FfBMsJl.png",
@@ -55,6 +41,33 @@
     }
   },
   {
+    "Name": "Tejas Sudhir Tapas",
+    "Role": "Lead Program Manager",
+    "DPic": "https://i.imgur.com/yCTPMVt.png",
+    "Socials": {
+      "GitHub": "https://github.com/Tejas1510",
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/",
+      "Website": "https://tejastapas.netlify.app/",
+      "Instagram": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Vilsi Jain",
+    "Role": "Lead Organizer",
+    "DPic": "https://i.imgur.com/5lVegKD.png",
+    "Socials": {
+      "GitHub": "https://github.com/vilsi12/",
+      "Facebook": "https://www.facebook.com/vilsi.jain/",
+      "Twitter": "https://twitter.com/VilsiJ",
+      "LinkedIn": "https://www.linkedin.com/in/vilsijain08/",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
     "Name": "Sushant Srivastav",
     "Role": "Lead Manager",
     "DPic": "https://i.imgur.com/GzR1ffn.png",
@@ -68,14 +81,27 @@
     }
   },
   {
-    "Name": "Vilsi Jain",
-    "Role": "Lead Organizer",
-    "DPic": "https://i.imgur.com/5lVegKD.png",
+    "Name": "Rajarshi Boggarapu",
+    "Role": "Sponsorship Lead",
+    "DPic": "https://i.imgur.com/52agMZG.png",
     "Socials": {
-      "GitHub": "https://github.com/vilsi12/",
-      "Facebook": "https://www.facebook.com/vilsi.jain/",
-      "Twitter": "https://twitter.com/VilsiJ",
-      "LinkedIn": "https://www.linkedin.com/in/vilsijain08/",
+      "GitHub": null,
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": null,
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Hemu Choudhary",
+    "Role": "HR Manager",
+    "DPic": "https://i.imgur.com/uiqD1ds.png",
+    "Socials": {
+      "GitHub": "https://github.com/choudharyhemu",
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/hemu-choudhary-631b29188/",
       "Website": null,
       "StackOverflow": null
     }
@@ -102,19 +128,6 @@
       "Facebook": null,
       "Twitter": null,
       "LinkedIn": null,
-      "Website": null,
-      "StackOverflow": null
-    }
-  },
-  {
-    "Name": "Hemu Choudhary",
-    "Role": "HR Manager",
-    "DPic": "https://i.imgur.com/uiqD1ds.png",
-    "Socials": {
-      "GitHub": "https://github.com/choudharyhemu",
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": "https://www.linkedin.com/in/hemu-choudhary-631b29188/",
       "Website": null,
       "StackOverflow": null
     }
