@@ -11,7 +11,7 @@
       "Website": null,
       "StackOverflow": null
     }
-  }, 
+  },
   {
     "Name": "Tejas Sudhir Tapas",
     "Role": "Lead Program Manager",
@@ -36,6 +36,84 @@
       "LinkedIn": "https://www.linkedin.com/in/praveentech/",
       "Website": "http://praveen.science/",
       "StackOverflow": "https://stackoverflow.com/users/462627/"
+    }
+  },
+  {
+    "Name": "Vinamra",
+    "Role": "Tech Lead",
+    "DPic": null,
+    "Socials": {
+      "GitHub": null,
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": null,
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Sushant",
+    "Role": "Lead Manager",
+    "DPic": null,
+    "Socials": {
+      "GitHub": null,
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": null,
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Vilsi",
+    "Role": "Lead Organizer",
+    "DPic": null,
+    "Socials": {
+      "GitHub": null,
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": null,
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Chetna",
+    "Role": "Co-ordinating HR",
+    "DPic": null,
+    "Socials": {
+      "GitHub": null,
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": null,
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Harpreet Kaur ",
+    "Role": "Co-ordinating HR",
+    "DPic": null,
+    "Socials": {
+      "GitHub": null,
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": null,
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Hemu",
+    "Role": "HR Manager",
+    "DPic": null,
+    "Socials": {
+      "GitHub": null,
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": null,
+      "Website": null,
+      "StackOverflow": null
     }
   }
 ]
