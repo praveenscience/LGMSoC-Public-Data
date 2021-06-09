@@ -4,12 +4,13 @@
     "Role": "Founder",
     "DPic": "https://i.imgur.com/vM5Jj4Y.png",
     "Socials": {
-      "GitHub": null,
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
+      "GitHub": "https://github.com/Amankesarwani2202",
+      "Facebook": "https://www.facebook.com/aman0fficial",
+      "Twitter": "https://twitter.com/aman_0fficial",
+      "LinkedIn": "https://www.linkedin.com/in/~amankesarwani/",
       "Website": null,
-      "StackOverflow": null
+      "Instagram": "https://www.instagram.com/aman_0fficial/",
+      "StackOverflow": "https://stackoverflow.com/users/13228049/"
     }
   }, 
   {
@@ -22,6 +23,7 @@
       "Twitter": null,
       "LinkedIn": "https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/",
       "Website": "https://tejastapas.netlify.app/",
+      "Instagram": null,
       "StackOverflow": null
     }
   },
@@ -35,6 +37,7 @@
       "Twitter": "https://twitter.com/praveenscience",
       "LinkedIn": "https://www.linkedin.com/in/praveentech/",
       "Website": "http://praveen.science/",
+      "Instagram": "https://www.instagram.com/praveenscience/",
       "StackOverflow": "https://stackoverflow.com/users/462627/"
     }
   }
