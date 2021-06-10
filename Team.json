@@ -2,7 +2,7 @@
   {
     "Name": "Aman Kesarwani",
     "Role": "Founder",
-    "DPic": "https://i.imgur.com/vM5Jj4Y.png",
+    "DPic": "https://i.imgur.com/nhK18lS.png",
     "Socials": {
       "GitHub": "https://github.com/Amankesarwani2202",
       "Facebook": "https://www.facebook.com/aman0fficial",
@@ -14,23 +14,9 @@
     }
   },
   {
-    "Name": "Tejas Sudhir Tapas",
-    "Role": "Lead Program Manager",
-    "DPic": null,
-    "Socials": {
-      "GitHub": "https://github.com/Tejas1510",
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": "https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/",
-      "Website": "https://tejastapas.netlify.app/",
-      "Instagram": null,
-      "StackOverflow": null
-    }
-  },
-  {
     "Name": "Praveen Kumar Purushothaman",
     "Role": "Programme Manager",
-    "DPic": "https://i.imgur.com/oHmRxfz.png",
+    "DPic": "https://i.imgur.com/FfBMsJl.png",
     "Socials": {
       "GitHub": "https://github.com/praveenscience/",
       "Facebook": "https://www.facebook.com/praveenscience",
@@ -44,7 +30,7 @@
   {
     "Name": "Vinamra Sharma",
     "Role": "Tech Lead",
-    "DPic": null,
+    "DPic": "https://i.imgur.com/7iRJAIL.png",
     "Socials": {
       "GitHub": "https://github.com/vnmrsharma",
       "Facebook": null,
@@ -55,9 +41,36 @@
     }
   },
   {
+    "Name": "Tejas Sudhir Tapas",
+    "Role": "Lead Program Manager",
+    "DPic": "https://i.imgur.com/yCTPMVt.png",
+    "Socials": {
+      "GitHub": "https://github.com/Tejas1510",
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/tejas-sudhir-tapas-971847171/",
+      "Website": "https://tejastapas.netlify.app/",
+      "Instagram": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Vilsi Jain",
+    "Role": "Lead Organizer",
+    "DPic": "https://i.imgur.com/5lVegKD.png",
+    "Socials": {
+      "GitHub": "https://github.com/vilsi12/",
+      "Facebook": "https://www.facebook.com/vilsi.jain/",
+      "Twitter": "https://twitter.com/VilsiJ",
+      "LinkedIn": "https://www.linkedin.com/in/vilsijain08/",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
     "Name": "Sushant Srivastav",
     "Role": "Lead Manager",
-    "DPic": null,
+    "DPic": "https://i.imgur.com/GzR1ffn.png",
     "Socials": {
       "GitHub": "https://github.com/sushant4191",
       "Facebook": "https://www.facebook.com/sushant4191/",
@@ -68,14 +81,27 @@
     }
   },
   {
-    "Name": "Vilsi Jain",
-    "Role": "Lead Organizer",
-    "DPic": null,
+    "Name": "Rajarshi Boggarapu",
+    "Role": "Sponsorship Lead",
+    "DPic": "https://i.imgur.com/52agMZG.png",
     "Socials": {
-      "GitHub": "https://github.com/vilsi12/",
+      "GitHub": null,
+      "Facebook": "https://www.facebook.com/RajaRshi.2001",
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/rajarshi-boggarapu-9874a51a0/",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Hemu Choudhary",
+    "Role": "HR Manager",
+    "DPic": "https://i.imgur.com/uiqD1ds.png",
+    "Socials": {
+      "GitHub": "https://github.com/choudharyhemu",
       "Facebook": null,
-      "Twitter": "https://twitter.com/VilsiJ",
-      "LinkedIn": "https://www.linkedin.com/in/vilsijain08/",
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/hemu-choudhary-631b29188/",
       "Website": null,
       "StackOverflow": null
     }
@@ -83,7 +109,7 @@
   {
     "Name": "Chetna",
     "Role": "Co-ordinating HR",
-    "DPic": null,
+    "DPic": "https://i.imgur.com/0BPoACA.png",
     "Socials": {
       "GitHub": null,
       "Facebook": null,
@@ -96,20 +122,7 @@
   {
     "Name": "Harpreet Kaur",
     "Role": "Co-ordinating HR",
-    "DPic": null,
-    "Socials": {
-      "GitHub": null,
-      "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
-      "Website": null,
-      "StackOverflow": null
-    }
-  },
-  {
-    "Name": "Hemu Choudhary",
-    "Role": "HR Manager",
-    "DPic": null,
+    "DPic": "https://i.imgur.com/Nz39Tgc.png",
     "Socials": {
       "GitHub": "https://github.com/choudharyhemu",
       "Facebook": null,
@@ -122,7 +135,7 @@
   {
     "Name": "Rohan Kulkarni",
     "Role": "Team Member",
-    "DPic": null,
+    "DPic": "https://i.imgur.com/m8fRscU.png",
     "Socials": {
       "GitHub": "https://github.com/rohan-kulkarni-25",
       "Facebook": "https://www.facebook.com/rohan.kulkarni.2520/",
