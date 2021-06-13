@@ -144,5 +144,44 @@
       "Website": null,
       "StackOverflow": null
     }
+  },
+  {
+    "Name": "Pragya Shrivastava",
+    "Role": "Content Writer Lead",
+    "DPic": null,
+    "Socials": {
+      "GitHub": "https://github.com/ela-26",
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/pragya-s-0b5759195",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Sowmya kranthi",
+    "Role": "Graphic Designer Lead",
+    "DPic": null,
+    "Socials": {
+      "GitHub": "https://github.com/Sowmyakranthi03",
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/sowmya-kranthi-184673202",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Shaksham Sharma",
+    "Role": "Social media Lead",
+    "DPic": null,
+    "Socials": {
+      "GitHub": "https://github.com/shaksham711",
+      "Facebook": "https://www.facebook.com/profile.php?id=100008668891926",
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/shaksham-sharma-143137108/",
+      "Website": null,
+      "StackOverflow": null
+    }
   }
 ]
