@@ -126,8 +126,8 @@
     "Socials": {
       "GitHub": null,
       "Facebook": null,
-      "Twitter": null,
-      "LinkedIn": null,
+      "Twitter": "https://twitter.com/Kaur0221?s=08",
+      "LinkedIn": "https://www.linkedin.com/in/harpreet-kaur-24b34b1bb",
       "Website": null,
       "StackOverflow": null
     }
@@ -141,6 +141,45 @@
       "Facebook": "https://www.facebook.com/rohan.kulkarni.2520/",
       "Twitter": "https://twitter.com/rohan_2502",
       "LinkedIn": "https://www.linkedin.com/in/rohan-k-2502/",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Pragya Shrivastava",
+    "Role": "Content Writer Lead",
+    "DPic": "https://i.imgur.com/B47KAdR.png",
+    "Socials": {
+      "GitHub": "https://github.com/ela-26",
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/pragya-s-0b5759195",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Sowmya kranthi",
+    "Role": "Graphic Designer Lead",
+    "DPic": "https://i.imgur.com/B47KAdR.png",
+    "Socials": {
+      "GitHub": "https://github.com/Sowmyakranthi03",
+      "Facebook": null,
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/sowmya-kranthi-184673202",
+      "Website": null,
+      "StackOverflow": null
+    }
+  },
+  {
+    "Name": "Shaksham Sharma",
+    "Role": "Social media Lead",
+    "DPic": "https://i.imgur.com/B47KAdR.png",
+    "Socials": {
+      "GitHub": "https://github.com/shaksham711",
+      "Facebook": "https://www.facebook.com/profile.php?id=100008668891926",
+      "Twitter": null,
+      "LinkedIn": "https://www.linkedin.com/in/shaksham-sharma-143137108/",
       "Website": null,
       "StackOverflow": null
     }
