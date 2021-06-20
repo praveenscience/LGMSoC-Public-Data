@@ -51,6 +51,10 @@
       {
         "Name": "Raveena Bhasin",
         "GitHub": "https://github.com/RaveenaBhasin"
+      },
+      {
+        "Name": "Aayush Jain",
+        "GitHub": "https://github.com/jainaayush01"
       }
     ]
   },
@@ -416,23 +420,6 @@
     ]
   },
   {
-    "ProjectName": "Banking WebApp",
-    "Repository": null,
-    "Description": null,
-    "Website": null,
-    "Video": null,
-    "ProjectAdmin": {
-      "Name": null,
-      "GitHub": null
-    },
-    "Mentors": [
-      {
-        "Name": null,
-        "GitHub": null
-      }
-    ]
-  },
-  {
     "ProjectName": "Rotten Scripts",
     "Repository": "harshcasper/rotten-scripts",
     "Description": "",
@@ -444,8 +431,20 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Md Salik",
+        "GitHub": "https://github.com/saaalik"
+      },
+      {
+        "Name": "Rohini Rao",
+        "GitHub": "https://github.com/RohiniRG"
+      },
+      {
+        "Name": "Akhil Bhalerao",
+        "GitHub": "https://github.com/iamakkkhil"
+      },
+      {
+        "Name": "Avinash Kumar",
+        "GitHub": "https://github.com/kumaravinash9"
       }
     ]
   },
@@ -682,6 +681,10 @@
       {
         "Name": "Harsh Ghodkar",
         "GitHub": "https://github.com/Saviour1001"
+      },
+      {
+        "Name": "Aliya Rahmani",
+        "GitHub": "https://github.com/aliya-rahmani"
       }
     ]
   },
@@ -714,8 +717,12 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Shrishti",
+        "GitHub": "https://github.com/shrishti-c"
+      },
+      {
+        "Name": "Ashwin Kumar Ramaswamy",
+        "GitHub": "https://github.com/Ash515"
       }
     ]
   },
@@ -731,8 +738,12 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Abhijeet Chatterjee",
+        "GitHub": "https://github.com/abhijeet007rocks8/"
+      },
+      {
+        "Name": "Yash Khare",
+        "GitHub": "https://github.com/khareyash05"
       }
     ]
   },
@@ -804,6 +815,10 @@
       {
         "Name": "Sakshi Arora",
         "GitHub": "https://github.com/iam-sakshi"
+      },
+      {
+        "Name": "Shubhra Agarwal",
+        "GitHub": "https://github.com/shubhraagarwal"
       }
     ]
   },
@@ -838,6 +853,10 @@
       {
         "Name": "Kanak",
         "GitHub": "https://github.com/kanak22"
+      },
+      {
+        "Name": "Satyam Dengre",
+        "GitHub": "https://github.com/satyampgt4"
       }
     ]
   },
@@ -937,8 +956,12 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Ashutosh Krishna",
+        "GitHub": "https://github.com/ashutoshkrris"
+      },
+      {
+        "Name": "Sriganesh Rao",
+        "GitHub": "https://github.com/Xfinity-bot"
       }
     ]
   },
@@ -971,8 +994,8 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "AVS AdityaVardhan",
+        "GitHub": "https://www.github.com/avs18"
       }
     ]
   },
@@ -1061,7 +1084,11 @@
     "Mentors": [
       {
         "Name": "Draksha Khan",
-        "GitHub": "github.com/draksha22"
+        "GitHub": "https://github.com/draksha22"
+      },
+      {
+        "Name": "SUMIT SINGH",
+        "GitHub": "https://github.com/WH0SUMIT"
       }
     ]
   },
@@ -1094,8 +1121,12 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Devansh Tayal",
+        "GitHub": "https://www.github.com/devansh2005"
+      },
+      {
+        "Name": "Soumik Kumar Baithalu",
+        "GitHub": "https://github.com/soumik2012"
       }
     ]
   },
@@ -1121,6 +1152,57 @@
       {
         "Name": "Yatharth Mago",
         "GitHub": "https://www.github.com/yatharthmago01"
+      }
+    ]
+  },
+  {
+    "ProjectName": "NavigateMe",
+    "Repository": "anupam-b/NavigateMe",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Anupam Baranwal",
+      "GitHub": "https://github.com/anupam-b"
+    },
+    "Mentors": [
+      {
+        "Name": null,
+        "GitHub": null
+      }
+    ]
+  },
+  {
+    "ProjectName": "Breast Cancer Predictor",
+    "Repository": "srimani-programmer/Breast-Cancer-Predictor",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Sri Manikanta Palakollu",
+      "GitHub": "https://github.com/srimani-programmer"
+    },
+    "Mentors": [
+      {
+        "Name": null,
+        "GitHub": null
+      }
+    ]
+  },
+  {
+    "ProjectName": "Cyberonr",
+    "Repository": "starlightknown/Cyberon",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Karuna Tata",
+      "GitHub": "https://github.com/starlightknown"
+    },
+    "Mentors": [
+      {
+        "Name": null,
+        "GitHub": null
       }
     ]
   }
