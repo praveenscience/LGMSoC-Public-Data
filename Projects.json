@@ -14,6 +14,10 @@
         "Name": "Gaurav Prajapati",
         "GitHub": "https://github.com/Fab-Gaurav"
       }
+      {
+        "Name": "Monish B",
+        "GitHub": "https://github.com/monizb"
+      }
     ]
   },
   {
@@ -30,6 +34,10 @@
       {
         "Name": "Sabreen Parveen",
         "GitHub": "https://github.com/Sabreen-Parveen"
+      }
+      {
+        "Name": "Shloka Gupta",
+        "GitHub": "https://github.com/chicken-biryani"
       }
     ]
   },
@@ -221,8 +229,8 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Kritika Parmar",
+        "GitHub": "https://github.com/kritikaparmar-programmer/"
       }
     ]
   },
@@ -431,10 +439,6 @@
     },
     "Mentors": [
       {
-        "Name": "Md Salik",
-        "GitHub": "https://github.com/saaalik"
-      },
-      {
         "Name": "Rohini Rao",
         "GitHub": "https://github.com/RohiniRG"
       },
@@ -445,6 +449,10 @@
       {
         "Name": "Avinash Kumar",
         "GitHub": "https://github.com/kumaravinash9"
+      }
+      {
+        "Name": "Mohd Rizwan Shaikh",
+        "GitHub": "https://github.com/Rizwan-S"
       }
     ]
   },
@@ -645,8 +653,20 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Shivam Singh",
+        "GitHub": "https://github.com/shivamsingh124"
+      }
+      {
+        "Name": "Pulkit Singh",
+        "GitHub": "https://github.com/PulkitSinghDev"
+      }
+      {
+        "Name": "Akash Chouhan",
+        "GitHub": "https://github.com/akashchouhan16"
+      }
+      {
+        "Name": "Subhasmita Pradhan",
+        "GitHub": "https://github.com/subhasmitapradhan"
       }
     ]
   },
@@ -939,8 +959,12 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Anisha Singh",
+        "GitHub": "https://github.com/Anisha135"
+      }
+      {
+        "Name": "Bijay Adhikari",
+        "GitHub": "https://github.com/Bijay555"
       }
     ]
   },
@@ -1011,8 +1035,12 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Saksham Taneja",
+        "GitHub": "https://github.com/sakshamtaneja21"
+      }
+      {
+        "Name": "Ashutosh Kumar Verma",
+        "GitHub": "https://github.com/AshuKV"
       }
     ]
   },
@@ -1184,13 +1212,13 @@
     },
     "Mentors": [
       {
-        "Name": null,
-        "GitHub": null
+        "Name": "Avishkar Rajendra Gandhi",
+        "GitHub": "https://github.com/avishkar2001"
       }
     ]
   },
   {
-    "ProjectName": "Cyberonr",
+    "ProjectName": "Cyberon",
     "Repository": "starlightknown/Cyberon",
     "Description": null,
     "Website": null,
@@ -1198,6 +1226,44 @@
     "ProjectAdmin": {
       "Name": "Karuna Tata",
       "GitHub": "https://github.com/starlightknown"
+    },
+    "Mentors": [
+      {
+        "Name": "Md Salik",
+        "GitHub": "https://github.com/saaalik"
+      }
+      {
+        "Name": "Sushmita",
+        "GitHub": "https://github.com/17sushmita"
+      }
+    ]
+  },
+  {
+    "ProjectName": "Text Editor",
+    "Repository": "Devansh2005/Text-Editor",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Devansh Tayal",
+      "GitHub": "https://github.com/Devansh2005/Text-Editor"
+    },
+    "Mentors": [
+      {
+        "Name": "Shloka Gupta",
+        "GitHub": "https://github.com/chicken-biryani"
+      }
+    ]
+  },
+  {
+    "ProjectName": "Chathub",
+    "Repository": "soumik2012/Chathub",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Soumik Kumar Baithalu",
+      "GitHub": "https://github.com/soumik2012/Chathub"
     },
     "Mentors": [
       {
