@@ -13,10 +13,14 @@
       {
         "Name": "Gaurav Prajapati",
         "GitHub": "https://github.com/Fab-Gaurav"
-      }
+      },
       {
         "Name": "Monish B",
         "GitHub": "https://github.com/monizb"
+      },
+      {
+        "Name": "Akanksha Priya",
+        "GitHub": "https://github.com/Spring-dot"
       }
     ]
   },
@@ -34,10 +38,18 @@
       {
         "Name": "Sabreen Parveen",
         "GitHub": "https://github.com/Sabreen-Parveen"
-      }
+      },
       {
         "Name": "Shloka Gupta",
         "GitHub": "https://github.com/chicken-biryani"
+      },
+      {
+        "Name": "Satyam Dengre",
+        "GitHub": "https://github.com/satyampgt4"
+      },
+      {
+        "Name": "Dolly Jain",
+        "GitHub": "https://github.com/dollyjain51099"
       }
     ]
   },
@@ -63,6 +75,10 @@
       {
         "Name": "Aayush Jain",
         "GitHub": "https://github.com/jainaayush01"
+      },
+      {
+        "Name": "Meha Bhalodiya",
+        "GitHub": "https://github.com/mehabhalodiya"
       }
     ]
   },
@@ -109,6 +125,10 @@
       {
         "Name": "Harshal Raikwar",
         "GitHub": "https://github.com/Harshal0902"
+      },
+      {
+        "Name": "Satyam Dengre",
+        "GitHub": "https://github.com/satyampgt4"
       }
     ]
   },
@@ -119,10 +139,14 @@
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
-      "Name": "Kishore M",
-      "GitHub": "https://github.com/KISHOREMUTHU"
+      "Name": "Hari Kheshav S K",
+      "GitHub": "https://github.com/Harikheshav"
     },
     "Mentors": [
+      {
+        "Name": "Kishore M",
+        "GitHub": "https://github.com/KISHOREMUTHU"
+      },
       {
         "Name": "Kapil Kumar",
         "GitHub": "https://github.com/kapilkumar2001"
@@ -235,23 +259,6 @@
     ]
   },
   {
-    "ProjectName": "HealthPredictor",
-    "Repository": "",
-    "Description": null,
-    "Website": null,
-    "Video": null,
-    "ProjectAdmin": {
-      "Name": null,
-      "GitHub": null
-    },
-    "Mentors": [
-      {
-        "Name": null,
-        "GitHub": null
-      }
-    ]
-  },
-  {
     "ProjectName": "Awesome Portfolio Websites",
     "Repository": "smaranjitghose/awesome-portfolio-websites",
     "Description": null,
@@ -313,7 +320,7 @@
     "Video": null,
     "ProjectAdmin": {
       "Name": "Qazi Maaz Arshad",
-      "GitHub": "QAZIMAAZARSHAD/Movie-Streaming-Website"
+      "GitHub": "https://github.com/QAZIMAAZARSHAD"
     },
     "Mentors": [
       {
@@ -450,10 +457,6 @@
         "Name": "Avinash Kumar",
         "GitHub": "https://github.com/kumaravinash9"
       }
-      {
-        "Name": "Mohd Rizwan Shaikh",
-        "GitHub": "https://github.com/Rizwan-S"
-      }
     ]
   },
   {
@@ -577,8 +580,12 @@
         "GitHub": "https://github.com/arpit456jain"
       },
       {
-        "Name": "Yash Thakare",
-        "GitHub": "https://github.com/YashThakare"
+        "Name": "Nikita Anil Gupta",
+        "GitHub": "https://github.com/gnikita432"
+      },
+      {
+        "Name": "Mohd Rizwan Shaikh",
+        "GitHub": "https://github.com/Rizwan-S"
       }
     ]
   },
@@ -594,8 +601,8 @@
     },
     "Mentors": [
       {
-        "Name": "Ankita Pal ",
-        "GitHub": "https://github.com/Ankita297"
+        "Name": "SUMIT SINGH ",
+        "GitHub": "https://github.com/WH0SUMIT"
       },
       {
         "Name": "Atharva Gadkari",
@@ -617,6 +624,10 @@
       {
         "Name": "Pranav Singh",
         "GitHub": "https://github.com/theBeginner86"
+      },
+      {
+        "Name": "RIA TYAGI",
+        "GitHub": "https://github.com/riasenpai"
       }
     ]
   },
@@ -655,15 +666,15 @@
       {
         "Name": "Shivam Singh",
         "GitHub": "https://github.com/shivamsingh124"
-      }
+      },
       {
         "Name": "Pulkit Singh",
         "GitHub": "https://github.com/PulkitSinghDev"
-      }
+      },
       {
         "Name": "Akash Chouhan",
         "GitHub": "https://github.com/akashchouhan16"
-      }
+      },
       {
         "Name": "Subhasmita Pradhan",
         "GitHub": "https://github.com/subhasmitapradhan"
@@ -743,6 +754,14 @@
       {
         "Name": "Ashwin Kumar Ramaswamy",
         "GitHub": "https://github.com/Ash515"
+      },
+      {
+        "Name": "Mohd Rizwan Shaikh",
+        "GitHub": "https://github.com/Rizwan-S"
+      },
+      {
+        "Name": "Ankita Pal",
+        "GitHub": "https://github.com/Ankita297"
       }
     ]
   },
@@ -856,6 +875,14 @@
       {
         "Name": "Kanak",
         "GitHub": "https://github.com/kanak22"
+      },
+      {
+        "Name": "SUMIT SINGH ",
+        "GitHub": "https://github.com/WH0SUMIT"
+      },
+      {
+        "Name": "Atharva Gadkari",
+        "GitHub": "https://github.com/atharvagadkari05"
       }
     ]
   },
@@ -929,8 +956,8 @@
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
-      "Name": "Ashish Sahu",
-      "GitHub": "https://github.com/ashishsahu1"
+      "Name": "Prathima Kadari",
+      "GitHub": "https://github.com/prathimacode-hub"
     },
     "Mentors": [
       {
@@ -961,7 +988,7 @@
       {
         "Name": "Anisha Singh",
         "GitHub": "https://github.com/Anisha135"
-      }
+      },
       {
         "Name": "Bijay Adhikari",
         "GitHub": "https://github.com/Bijay555"
@@ -1037,10 +1064,14 @@
       {
         "Name": "Saksham Taneja",
         "GitHub": "https://github.com/sakshamtaneja21"
-      }
+      },
       {
         "Name": "Ashutosh Kumar Verma",
         "GitHub": "https://github.com/AshuKV"
+      },
+      {
+        "Name": "Esha Goel",
+        "GitHub": "https://github.com/goelesha"
       }
     ]
   },
@@ -1138,7 +1169,7 @@
     ]
   },
   {
-    "ProjectName": "ProjectYard",
+    "ProjectName": "ML-ProjectYard",
     "Repository": "ashishsahu1/ML-ProjectYard",
     "Description": null,
     "Website": null,
@@ -1153,8 +1184,8 @@
         "GitHub": "https://www.github.com/devansh2005"
       },
       {
-        "Name": "Soumik Kumar Baithalu",
-        "GitHub": "https://github.com/soumik2012"
+        "Name": "Esha Goel",
+        "GitHub": "https://github.com/goelesha"
       }
     ]
   },
@@ -1231,7 +1262,7 @@
       {
         "Name": "Md Salik",
         "GitHub": "https://github.com/saaalik"
-      }
+      },
       {
         "Name": "Sushmita",
         "GitHub": "https://github.com/17sushmita"
@@ -1263,7 +1294,62 @@
     "Video": null,
     "ProjectAdmin": {
       "Name": "Soumik Kumar Baithalu",
-      "GitHub": "https://github.com/soumik2012/Chathub"
+      "GitHub": "https://github.com/soumik2012"
+    },
+    "Mentors": [
+      {
+        "Name": null,
+        "GitHub": null
+      }
+    ]
+  },
+  {
+    "ProjectName": "Web-dev-mini-Projects",
+    "Repository": "Ayushparikh-code/Web-dev-mini-projects",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Ayush Parikh",
+      "GitHub": "https://github.com/Ayushparikh-code"
+    },
+    "Mentors": [
+      {
+        "Name": "S Harshita",
+        "GitHub": "https://github.com/harshita2216"
+      },
+      {
+        "Name": "Shloka Gupta",
+        "GitHub": "https://github.com/chicken-biryani"
+      }
+    ]
+  },
+  {
+    "ProjectName": "Face-Mask-Detection",
+    "Repository": "Ayushparikh-code/Face--Mask--Detection",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Ayush Parikh",
+      "GitHub": "https://github.com/Ayushparikh-code"
+    },
+    "Mentors": [
+      {
+        "Name": null,
+        "GitHub": null
+      }
+    ]
+  },
+  {
+    "ProjectName": "Empower Her",
+    "Repository": "vidhi-mody/EmpowHer",
+    "Description": null,
+    "Website": null,
+    "Video": null,
+    "ProjectAdmin": {
+      "Name": "Vidhi Mody",
+      "GitHub": "https://github.com/vidhi-mody"
     },
     "Mentors": [
       {
