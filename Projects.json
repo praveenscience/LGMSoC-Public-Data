@@ -567,8 +567,8 @@
   {
     "ProjectName": "Makes Math Easy",
     "Repository": "makesmatheasy/makesmatheasy",
-    "Description": null,
-    "Website": null,
+    "Description": "Aims to provide stepwise solutions to Various Math Problems without any server interaction. This Project also got global recognition, even though it's not officially released anywhere yet. Focusing on creating a webapp + library. It's beginner friendly Project, thing required is just a Good Problem Solving Skills, to deal with various Algorithms for Calculators.",
+    "Website": "https://makesmatheasy.github.io/makesmatheasy",
     "Video": null,
     "ProjectAdmin": {
       "Name": "Rajinderpal Singh",
