@@ -786,10 +786,10 @@
       }
     ]
   },
-  {
+  
     "ProjectName": "Awesome Python Scripts",
     "Repository": "prathimacode-hub/Awesome_Python_Scripts",
-    "Description": null,
+    "Description": "This project is a beginner friendly and for all the pythonistas down the lane. It comprises of a curated collection of python scripts that would make you go wow and a perfect place to get started with real-time python projects.",
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
@@ -952,7 +952,7 @@
   {
     "ProjectName": "ML-ProjectKart",
     "Repository": "prathimacode-hub/ML-ProjectKart",
-    "Description": null,
+    "Description": "This repository would be a kart for all the projects based on machine learning, deep learning, computer vision, natural language processing and has task for everyone. It has got everything covered to be a pro.",
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
