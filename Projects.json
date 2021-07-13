@@ -315,8 +315,8 @@
   {
     "ProjectName": "Movie Streaming Website",
     "Repository": "QAZIMAAZARSHAD/Movie-Streaming-Website",
-    "Description": null,
-    "Website": null,
+    "Description": "'Apna Theatre' is a movie streaming website that allows users to binge watch their favorite movies, web-series, and TV shows",
+    "Website": "https://qazimaazarshad.github.io/Movie-Streaming-Website/",
     "Video": null,
     "ProjectAdmin": {
       "Name": "Qazi Maaz Arshad",
@@ -340,8 +340,8 @@
   {
     "ProjectName": "Voters Registration Portal",
     "Repository": "QAZIMAAZARSHAD/Voters-Registration-Portal",
-    "Description": null,
-    "Website": null,
+    "Description": "A website for the eligible Indian citizens to register themselves as voters in the electoral roll",
+    "Website": "https://qazimaazarshad.github.io/Voters-Registration-Portal/",
     "Video": null,
     "ProjectAdmin": {
       "Name": "Qazi Maaz Arshad",
@@ -361,7 +361,7 @@
   {
     "ProjectName": "Income Tax Calculator",
     "Repository": "QAZIMAAZARSHAD/Income-Tax-Calcultor",
-    "Description": null,
+    "Description": "It is a GUI application that calculates the liable tax of a salaried Indian citizen",
     "Website": null,
     "Video": null,
     "ProjectAdmin": {
