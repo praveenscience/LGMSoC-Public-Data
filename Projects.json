@@ -786,7 +786,7 @@
       }
     ]
   },
-  
+  {
     "ProjectName": "Awesome Python Scripts",
     "Repository": "prathimacode-hub/Awesome_Python_Scripts",
     "Description": "This project is a beginner friendly and for all the pythonistas down the lane. It comprises of a curated collection of python scripts that would make you go wow and a perfect place to get started with real-time python projects.",
